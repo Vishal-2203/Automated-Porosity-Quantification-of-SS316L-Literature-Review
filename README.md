@@ -14,3 +14,8 @@
 | 8 | Image Analysis and Pattern Recognition for Porosity Estimation from Thin Sections | 2006 | Porosity estimation | Pattern recognition + image processing | Shows importance of segmentation in porosity estimation | ⭐⭐⭐⭐☆ |
 | 9 | Comparison of Porosity Analysis Based on XCT | 2025 | Compare segmentation approaches | Multiple segmentation methods | Shows algorithm choice affects porosity calculation | ⭐⭐⭐⭐☆ |
 | 10 | Optimization and Analysis of Porosity in SLM 316L Parts | 2018 | Study porosity formation | Metallography + process optimization | Good background on SS316L pore formation | ⭐⭐⭐☆☆ |
+
+
+
+
+selective laser melting**
