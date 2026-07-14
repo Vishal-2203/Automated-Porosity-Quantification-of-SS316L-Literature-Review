@@ -1,0 +1,16 @@
+```bash
+mkdir -p ~/porosity_offline/wheels && \
+cd ~/porosity_offline && \
+printf "numpy\nopencv-python\npandas\nPySide6\nscikit-image\nmatplotlib\nopenpyxl\n" > requirements.txt && \
+python3 -m pip download -r requirements.txt -d wheels
+```
+
+
+
+
+
+
+```bash
+cd ~/porosity_offline && \
+python3 -m pip install --no-index --find-links=./wheels -r requirements.txt
+```
